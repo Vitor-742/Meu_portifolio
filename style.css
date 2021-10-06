@@ -1,10 +1,12 @@
 h1 {
     font-family:yaldevi;
+    text-align: center;
 }
 .gosto {
     font-family: sans-serif;
     color: #ff4800;
     font-weight: 800;
+    display: block;
 }
 body {
     background-color: #ff9100   ;
@@ -14,4 +16,10 @@ body {
 }
 #link1 {
     margin-bottom: 20px;
+}
+img {
+    float: left;
+    padding: 10px;
+    background-color: #eb5c23;
+    margin-right: 10px;
 }
